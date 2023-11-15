@@ -7,6 +7,13 @@
   animation: spin 2s linear infinite;
 }
 
+.apmui-page-logon div.page-logon-postheader {
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 13px;
+  color: red;
+}
+
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
