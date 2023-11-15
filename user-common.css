@@ -7,6 +7,7 @@
   animation: spin 2s linear infinite;
 }
 
+/* Change error text to red */ 
 .apmui-page-logon div.page-logon-postheader {
   font-size: 13px;
   font-weight: 600;
